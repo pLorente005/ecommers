@@ -6,7 +6,6 @@ import {
   Button,
   Card,
   CardMedia,
-  CardContent,
 } from "@mui/material";
 import { useParams } from "react-router-dom";
 import { db } from "../firebaseConfig"; // Importa la configuración de Firestore
