@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { loadStripe } from '@stripe/stripe-js';
 
 const stripePromise = loadStripe('pk_test_51QSgAiBNoAIrMHfdrqMMFCgqvBXCJ9ymEpmjB0u8QzZUfrkNRN3DU1FEtI5Pe63YEgz5T3FwmpOvHpuR9hzGn0op00jZoKkROE');
 
